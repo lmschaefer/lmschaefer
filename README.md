@@ -2,7 +2,7 @@
 - 👀 I’m interested in aerospace engineering
 - 🌱 I’m currently learning abaqus scripting 
 - 💞️ I’m looking to collaborate on different coding subjects in airborne wind energy and lightweight design
-- 📫 How to reach me: lmasch95@gmx.de
+- 📫 How to reach me: lumasch95@gmx.de
 
 <!---
 lmschaefer/lmschaefer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
